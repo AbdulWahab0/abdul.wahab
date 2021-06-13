@@ -16,7 +16,7 @@ const greeting = {
   subTitle:
     "A highly organized, dynamic, enthusiastic and experienced deadline-oriented software tester in a manual testing environment and recent experience in automation. Collaborates seamlessly with developers and project managers to accomplish milestones.Graduated Master in Computer Science,with  year of experience in Software Testing and some Frontend Technologies.Detailed oriented with strong problem-solving, work ethics, communication, interpersonal and teamwork skill.",
   resumeLink:
-    "https://drive.google.com/file/d/1J8L7TNEqchjgLHY73Gv-c8to7n7txQXj/view?usp=sharing",
+    "https://drive.google.com/file/d/1TssfkNpYTEY6CghAB8eWjhLtoaP7HPZ6/view?usp=sharing",
 };
 
 const socialMediaLinks = [
@@ -69,6 +69,7 @@ const skills = {
         "⚡ Introducing & Establishing Automation testing (UI & API), with modern tools and technologies ( Cypress.io, Parallel run, mochawesome report, Jenkins, & Qase test management tool ) ",
         "⚡ Solution designing, coding, unit and integration testing, debugging and documentation of programs.",
         "⚡ Experience of working with agile development team with testing and development of microservices",
+        "⚡ Tools and Technlogies :Cypress framework,Selenium(Basic),Mocha,Jira,Jasmine,Confluence ,Browser stack,Jenkins,Api Tetsing , Rest Assured (Basic),Postman, Page object model, CI/CD and maintaining testing pipeline and BBD",
       ],
       softwareSkills: [
         {
@@ -619,8 +620,8 @@ const contactPageData = {
       "https://www.google.com/maps/place/Potsdamer+Stra%C3%9Fe+63,+10785+Berlin/data=!4m2!3m1!1s0x47a8504aae625d53:0x6c3d2cdd22eebc9?sa=X&ved=2ahUKEwjow6P4kN7rAhWGAxAIHT3nBBgQ8gEwAHoECAsQAQ",
   },
   phoneSection: {
-    title: "Phone Number",
-    subtitle: "+4917660904992",
+    title: "Email Id",
+    subtitle: "wahab3060@gmail.com",
   },
 };
 
